@@ -12,7 +12,7 @@ import (
 	"github.com/kyokomi/emoji"
 	"github.com/mattn/go-colorable"
 	"github.com/pkg/errors"
-	"github.com/ysugimoto/falco/terraform"
+	"github.com/Financial-Times/falco/terraform"
 )
 
 var version string = ""

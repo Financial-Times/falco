@@ -3,7 +3,7 @@ package ast
 import (
 	"bytes"
 
-	"github.com/ysugimoto/falco/token"
+	"github.com/Financial-Times/falco/token"
 )
 
 type Node interface {

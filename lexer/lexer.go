@@ -6,7 +6,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/ysugimoto/falco/token"
+	"github.com/Financial-Times/falco/token"
 )
 
 type Lexer struct {

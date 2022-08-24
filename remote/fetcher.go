@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ysugimoto/falco/types"
+	"github.com/Financial-Times/falco/types"
 )
 
 type FastlyApiFetcher struct {

@@ -3,8 +3,8 @@ package parser
 import (
 	"testing"
 
-	"github.com/ysugimoto/falco/ast"
-	"github.com/ysugimoto/falco/lexer"
+	"github.com/Financial-Times/falco/ast"
+	"github.com/Financial-Times/falco/lexer"
 )
 
 func TestIfExpression(t *testing.T) {

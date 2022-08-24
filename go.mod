@@ -1,4 +1,4 @@
-module github.com/ysugimoto/falco
+module github.com/Financial-Times/falco
 
 go 1.16
 

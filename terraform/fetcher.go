@@ -1,7 +1,7 @@
 package terraform
 
 import (
-	"github.com/ysugimoto/falco/types"
+	"github.com/Financial-Times/falco/types"
 )
 
 type TerraformFetcher struct {

@@ -3,7 +3,7 @@
 package context
 
 import (
-	"github.com/ysugimoto/falco/types"
+	"github.com/Financial-Times/falco/types"
 )
 
 type Functions map[string]*FunctionSpec

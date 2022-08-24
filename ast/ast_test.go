@@ -1,7 +1,7 @@
 package ast
 
 import (
-	"github.com/ysugimoto/falco/token"
+	"github.com/Financial-Times/falco/token"
 )
 
 var T = token.Token{}

@@ -5,10 +5,10 @@ import (
 	"net"
 	"strings"
 
-	"github.com/ysugimoto/falco/ast"
-	"github.com/ysugimoto/falco/context"
-	"github.com/ysugimoto/falco/token"
-	"github.com/ysugimoto/falco/types"
+	"github.com/Financial-Times/falco/ast"
+	"github.com/Financial-Times/falco/context"
+	"github.com/Financial-Times/falco/token"
+	"github.com/Financial-Times/falco/types"
 	regexp "go.arsenm.dev/pcre"
 )
 

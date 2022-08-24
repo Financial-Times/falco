@@ -5,8 +5,8 @@ import (
 	"strings"
 
 	"github.com/pkg/errors"
-	"github.com/ysugimoto/falco/ast"
-	"github.com/ysugimoto/falco/token"
+	"github.com/Financial-Times/falco/ast"
+	"github.com/Financial-Times/falco/token"
 )
 
 func (p *Parser) parseIdent() *ast.Ident {

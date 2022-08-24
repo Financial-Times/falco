@@ -1,8 +1,8 @@
 package linter
 
 import (
-	"github.com/ysugimoto/falco/ast"
-	"github.com/ysugimoto/falco/types"
+	"github.com/Financial-Times/falco/ast"
+	"github.com/Financial-Times/falco/types"
 )
 
 // See expression type comparison table:

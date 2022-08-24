@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/pkg/errors"
-	"github.com/ysugimoto/falco/terraform"
+	"github.com/Financial-Times/falco/terraform"
 )
 
 // TerraformResolver is in memory resolver, read and factory vcl data from terraform planned JSON input

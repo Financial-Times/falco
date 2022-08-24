@@ -11,14 +11,14 @@ import (
 
 	"github.com/goccy/go-yaml"
 	"github.com/pkg/errors"
-	"github.com/ysugimoto/falco/ast"
-	"github.com/ysugimoto/falco/context"
-	"github.com/ysugimoto/falco/lexer"
-	"github.com/ysugimoto/falco/linter"
-	"github.com/ysugimoto/falco/parser"
-	"github.com/ysugimoto/falco/plugin"
-	"github.com/ysugimoto/falco/remote"
-	"github.com/ysugimoto/falco/types"
+	"github.com/Financial-Times/falco/ast"
+	"github.com/Financial-Times/falco/context"
+	"github.com/Financial-Times/falco/lexer"
+	"github.com/Financial-Times/falco/linter"
+	"github.com/Financial-Times/falco/parser"
+	"github.com/Financial-Times/falco/plugin"
+	"github.com/Financial-Times/falco/remote"
+	"github.com/Financial-Times/falco/types"
 )
 
 var (

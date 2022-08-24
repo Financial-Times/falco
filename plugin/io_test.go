@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/ysugimoto/falco/ast"
+	"github.com/Financial-Times/falco/ast"
 )
 
 func TestEncodeDecode(t *testing.T) {

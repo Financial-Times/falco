@@ -3,8 +3,8 @@ package parser
 import (
 	"strings"
 
-	"github.com/ysugimoto/falco/ast"
-	"github.com/ysugimoto/falco/token"
+	"github.com/Financial-Times/falco/ast"
+	"github.com/Financial-Times/falco/token"
 )
 
 var assignmentOperators = map[token.TokenType]struct{}{

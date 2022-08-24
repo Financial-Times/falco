@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/ysugimoto/falco/context"
-	"github.com/ysugimoto/falco/lexer"
-	"github.com/ysugimoto/falco/parser"
-	"github.com/ysugimoto/falco/types"
+	"github.com/Financial-Times/falco/context"
+	"github.com/Financial-Times/falco/lexer"
+	"github.com/Financial-Times/falco/parser"
+	"github.com/Financial-Times/falco/types"
 )
 
 func assertNoError(t *testing.T, input string) {

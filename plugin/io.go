@@ -7,7 +7,7 @@ import (
 
 	"encoding/gob"
 
-	"github.com/ysugimoto/falco/ast"
+	"github.com/Financial-Times/falco/ast"
 )
 
 func init() {

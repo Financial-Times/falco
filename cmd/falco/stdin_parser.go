@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/pkg/errors"
-	"github.com/ysugimoto/falco/terraform"
+	"github.com/Financial-Times/falco/terraform"
 )
 
 func ParseStdin() ([]*terraform.FastlyService, error) {

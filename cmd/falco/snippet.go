@@ -7,8 +7,8 @@ import (
 
 	"text/template"
 
-	"github.com/ysugimoto/falco/remote"
-	"github.com/ysugimoto/falco/types"
+	"github.com/Financial-Times/falco/remote"
+	"github.com/Financial-Times/falco/types"
 )
 
 var tableTemplate = `

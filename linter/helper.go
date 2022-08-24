@@ -6,9 +6,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ysugimoto/falco/ast"
-	"github.com/ysugimoto/falco/context"
-	"github.com/ysugimoto/falco/types"
+	"github.com/Financial-Times/falco/ast"
+	"github.com/Financial-Times/falco/context"
+	"github.com/Financial-Times/falco/types"
 )
 
 var captureRegex = regexp.MustCompile(`\([^\)]+\)`)
